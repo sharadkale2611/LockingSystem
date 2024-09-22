@@ -1,0 +1,39 @@
+## In-depth Guides
+
+1. Components
+2. Templates
+3. Directives
+4. Dependency Injection
+5. Signals
+6. Routing
+7. Forms
+8. HTTP Client
+9. Performance
+10. Testing
+11. Internationalization
+12. Animations
+13. Experimental features
+
+## Developer Tools
+
+1. Angular CLI
+2. Libraries
+3. DevTools
+4. Language Service
+5. Best Practices
+6. Style Guide
+7. Security
+8. Accessibility
+9. Performance
+10. Keeping up-to-date
+
+## Extended Ecosystem
+
+1. Service Workers & PWAs
+2. Web workers
+3. Angular Fire
+4. Google Maps
+5. Google Pay
+6. YouTube player
+7. Angular CDK
+8. Angular Material
